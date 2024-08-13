@@ -1,0 +1,21 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Drosophila melanogaster	fruit fly		7227	Release 6 plus ISO1 MT	GCF_000001215.4	RefSeq	FlyBase Release 6.54	Chromosome	21485538	143706478	2014-08-01	17872	PRJNA13812	SAMN02803731
+Homo sapiens	human		9606	GRCh38.p14	GCF_000001405.40	RefSeq	GCF_000001405.40-RS_2023_10	Chromosome	57879411	3099441038	2022-02-03	59652	PRJNA31257	
+Mus musculus	house mouse	strain: C57BL/6J	10090	GRCm39	GCF_000001635.27	RefSeq	GCF_000001635.27-RS_2024_02	Chromosome	59462871	2728206152	2020-06-24	50763	PRJNA20689	
+Arabidopsis thaliana	thale cress	ecotype: Columbia	3702	TAIR10.1	GCF_000001735.4	RefSeq	Annotation submitted by TAIR and Araport	Chromosome	11194537	119146348	2018-03-15	38312	PRJNA10719	SAMN03081427
+Danio rerio	zebrafish	strain: Tuebingen	7955	GRCz11	GCF_000002035.6	RefSeq	NCBI Danio rerio Annotation Release 106	Chromosome	1422317	1373454788	2017-05-09	40031	PRJNA11776	SAMN06930106
+Caenorhabditis elegans		strain: Bristol N2	6239	WBcel235	GCF_000002985.6	RefSeq	WormBase WS292	Complete Genome	17493829	100272607	2013-02-07	46927	PRJNA13758	
+Candida dubliniensis CD36		strain: CD36	573826	ASM2694v1	GCF_000026945.1	RefSeq	Annotation submitted by Wellcome Trust Sanger Institute	Complete Genome	2267510	14618422	2009-02-16	6093	PRJEA34697	SAMEA2272258
+Micromonas commoda		strain: RCC299	296587	ASM9098v2	GCF_000090985.2	RefSeq	Annotation submitted by Micromonas genome consortium	Complete Genome	1394110	20989326	2009-04-10	10125	PRJNA15676	SAMN03081421
+Saccharomyces cerevisiae S288C		strain: S288C	559292	R64	GCF_000146045.2	RefSeq	SGD R64-4-1	Complete Genome	924431	12071326	2014-12-17	6470	PRJNA43747	
+Sugiyamaella lignohabitans		strain: CBS 10342	796027	ASM164002v2	GCF_001640025.1	RefSeq	Annotation submitted by University of Natural Resources and Life Sciences	Complete Genome	4956242	15938258	2016-05-06	5341	PRJNA308900	SAMN04417247
+[Candida] auris		strain: B11220	498019	ASM301371v2	GCF_003013715.1	RefSeq	Annotation submitted by Centers for Disease Control and Prevention	Complete Genome	2336890	12249773	2019-09-10	5494	PRJNA328792	SAMN05379608
+Pichia kudriavzevii		strain: CBS573	4909	ASM305444v1	GCF_003054445.1	RefSeq	Annotation submitted by University College Dublin	Complete Genome	2745854	10812555	2018-04-17	5324	PRJNA434433	SAMN08558011
+Schizosaccharomyces osmophilus		strain: CBS 15793	2545709	ASM2792174v1	GCF_027921745.1	RefSeq	Annotation submitted by National Institute of Biological Sciences, Beijing China	Complete Genome	3504162	11416521	2023-01-20	5574	PRJNA870673	SAMN30381985
+Malassezia japonica		strain: CBS 9431	223818	ASM2954278v1	GCF_029542785.1	RefSeq	Annotation submitted by Duke University	Complete Genome	1024655	8433779	2023-04-03	4373	PRJNA832271	SAMN27782874
+Malassezia vespertilionis		strain: CBS 15041	2020962	ASM2954292v1	GCF_029542925.1	RefSeq	Annotation submitted by Duke University	Complete Genome	844328	7595203	2023-04-03	4022	PRJNA833070	SAMN27958052
+Lodderomyces elongisporus		strain: NRRL YB-4239	36914	ASM3038466v1	GCF_030384665.1	RefSeq	Annotation submitted by University of Illinois Urbana-Champaign	Complete Genome	2328861	16086460	2023-07-02	5731	PRJNA935742	SAMN33325380
+Kwoniella shivajii		isolate: CBS 11374	564305	ASM3565835v1	GCF_035658355.1	RefSeq	Annotation submitted by Broad Institute	Complete Genome	2021889	22171496	2024-01-15	7975	PRJNA667903	SAMN16387706
+Kwoniella botswanensis		strain: CBS 12716	1268659	ASM3642611v1	GCF_036426115.1	RefSeq	Annotation submitted by Broad Institute	Complete Genome	18234046	23007246	2024-02-07	8705	PRJNA200568	SAMN02086248
+Saccharomyces mikatae IFO 1815		strain: IFO1815	226126	Smik-IFO1815	GCF_947241705.1	RefSeq	Annotation submitted by UNIVERSITY COLLEGE DUBLIN	Complete Genome	811203	12104871	2022-11-01	5849	PRJEB57075	SAMEA111517679
+Saccharomyces kudriavzevii IFO 1802		strain: IFO1802	226230	Skud-IFO1802	GCF_947243775.1	RefSeq	Annotation submitted by UNIVERSITY COLLEGE DUBLIN	Complete Genome	901691	11913776	2022-11-01	5880	PRJEB57075	SAMEA111517677
